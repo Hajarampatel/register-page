@@ -1,0 +1,53 @@
+html {
+    height: 100%;
+
+}
+h1 {
+
+    padding-top: 40px;
+}
+body {
+    height: 100%;
+
+background-image: url("tt.webp");
+background-repeat: no-repeat;
+background-size: cover;
+align-items: center;
+text-align: center;
+background-attachment: fixed;
+ background-position: center;
+
+
+}
+
+.box {
+    margin-top: 40px;
+
+    height: 100%;
+    width: 300px;
+   border-radius: 1rem;
+    background-color: aliceblue;
+    box-shadow: 3px 3px  rgb(83, 184, 224);
+
+}
+.resize {
+    border-radius: .3rem;
+    resize: none;
+}
+.naam {
+ padding-top: 10px;
+}
+
+#dnPadding {
+    margin-bottom: 15px;
+    width: 90%;
+}
+.padd {
+    margin-left: 10px;
+    margin-top: 5px;
+}
+
+.buton {
+    margin-top: 10px;
+
+}
